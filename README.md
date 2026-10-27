@@ -1,16 +1,13 @@
-## Hi there 👋
+## SDE-Focused Backend Developer | Python · Java · Node.js
 
-<!--
-**Devadharshini784/Devadharshini784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer who enjoys building REST APIs and cloud-deployed apps. Currently a 3rd-year student, open to collaborations and learning new technologies.
+📍 Chennai, India | Open to internships and remote opportunities
 
-Here are some ideas to get you started:
+### Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,tailwind,nodejs,express,spring,postgres,mongodb,redis,docker,aws,git,github,linux&theme=dark&perline=9)](https://skillicons.dev)
+
+### Contact
+
+Feel free to reach out via [email](mailto:devadharshinid44@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/devadharshini-d-86071a339/).
+I'm open to collaboration, mentorship, and discussing interesting projects and opportunities.
