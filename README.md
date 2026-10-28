@@ -1,13 +1,29 @@
-## SDE-Focused Backend Developer | Python · Java · Node.js
+```text
+                                       /\_/\   z z z
+╭─────────────────────────────────────( -.- )──────╮
+│                                      U   U       │
+│  $ whoami                                        │
+│  devadharshini — backend developer               │
+│                                                  │
+│  $ cat about.txt                                 │
+│  building rest apis & cloud-deployed apps        │
+│  3rd-year student · chennai, india               │
+│  open to internships & remote work               │
+│                                                  │
+│  $ ls stack/                                     │
+│  python  java  javascript  typescript            │
+│  node.js  express  spring  react  next.js        │
+│  tailwind  postgres  mongodb  redis              │
+│  docker  aws  git  github  linux                 │
+│                                                  │
+│  $ _                                             │
+╰──────────────────────────────────────────────────╯
+```
 
-Backend-focused developer who enjoys building REST APIs and cloud-deployed apps. Currently a 3rd-year student, open to collaborations and learning new technologies.
-📍 Chennai, India | Open to internships and remote opportunities
+<div align="center">
 
-### Skills & Tools
+[email](mailto:devadharshinid44@gmail.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/devadharshini-d-86071a339/)
 
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,tailwind,nodejs,express,spring,postgres,mongodb,redis,docker,aws,git,github,linux&theme=dark&perline=9)](https://skillicons.dev)
+<sub>open to collaboration, mentorship & good project chats</sub>
 
-### Contact
-
-Feel free to reach out via [email](mailto:devadharshinid44@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/devadharshini-d-86071a339/).
-I'm open to collaboration, mentorship, and discussing interesting projects and opportunities.
+</div>
