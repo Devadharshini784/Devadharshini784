@@ -1,9 +1,7 @@
-<table>
-<tr>
-<td valign="top">
+
 
 ```
-                         /\_/\   z z z
+                          /\_/\   z z z
 ┌────────────────────────( -.- )────────┐
 │                         U   U          │
 │ $ whoami                               │
@@ -25,16 +23,7 @@
 └────────────────────────────────────────┘
 ```
 
-</td>
-<td valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Devadharshini784/Devadharshini784/main/dev-girl.png" width="380" alt="girl developer at her desk" />
-
-**Turning ideas into scalable backends.**
-
-</td>
-</tr>
-</table>
 
 [email](mailto:YOUR-EMAIL@example.com) · [linkedin](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
 
