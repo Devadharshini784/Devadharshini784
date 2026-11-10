@@ -34,30 +34,6 @@ const devadharshini = {
 
 ---
 
-### How I build
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>01</code></sub><br>
-      <b>Correct under pressure</b><br><br>
-      <sub>If a thousand people click at once, the system should still tell the truth. I design for the race condition first, not after it breaks.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>02</code></sub><br>
-      <b>Show the source</b><br><br>
-      <sub>An answer nobody can verify is just a guess. I like systems that point back to where the answer came from.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>03</code></sub><br>
-      <b>Explain the verdict</b><br><br>
-      <sub>A score without a reason is useless. I build tools that say what they found, why it matters, and what to do next.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Stack
 
 **LANGUAGES**  
